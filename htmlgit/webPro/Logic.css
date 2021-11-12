@@ -1,0 +1,17 @@
+body{
+  background-color: blue;
+}
+h2{
+  color:pink;
+}
+.cen{
+text-align: center;
+padding: 50px  30px;
+background: #999FF0;
+}
+label{
+  color:red;
+}
+#btn{
+  background-color: green;
+}
